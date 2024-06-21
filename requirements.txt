@@ -1,13 +1,7 @@
-black
-flake8
-ipython
-isort
-jupyterlab
-matplotlib
-notebook
-numpy
-pandas
-pip
-python-dotenv
-scikit-learn
--e .
+currency_converter==0.5.5
+geopy==2.4.1
+matplotlib==3.8.4
+numpy==2.0.0
+pandas==2.2.2
+scikit_learn==1.4.2
+seaborn==0.13.2
